@@ -34,7 +34,6 @@ export default function RootLayout({
       className={`${cormorant.variable} ${jakarta.variable} antialiased`}
     >
       <body className="bg-primary text-foreground min-h-screen flex flex-col">
-        <GridVisualizer />
         <SmoothScroll>
           <Navbar />
           <main className="flex-grow">
