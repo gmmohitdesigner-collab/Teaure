@@ -4,7 +4,6 @@ import "./globals.css";
 import SmoothScroll from "@/components/providers/SmoothScroll";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
-import GridVisualizer from "@/components/layout/GridVisualizer";
 
 const cormorant = Cormorant_Garamond({
   variable: "--font-cormorant",
